@@ -23,5 +23,18 @@ const counterSubscriber = () => {
 
 store.subscribe(counterSubscriber);
 
-// store.dispatch({ type: 'increment' });
+
+/* At first counterReducer is initilized and store state -> counter value becomes 0 */
+
+// first dispach conter = 1
+store.dispatch({ type: 'increment' });
+// second dispach conter = 2
+store.dispatch({ type: 'increment' });
+// third dispach conter = 3
+store.dispatch({ type: 'increment' });
+// fourth dispach conter = 4
+store.dispatch({ type: 'increment' });
+// fifth dispach conter = 5
+store.dispatch({ type: 'increment' });
+// sixth dispach conter = 4
 store.dispatch({ type: 'decrement' });
