@@ -1,0 +1,15 @@
+{
+  "name": "redux-javascript",
+  "version": "1.0.0",
+  "description": "redux demo using javascript",
+  "main": "redux-demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Abhijeet Shelhalkar",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^4.1.2"
+  }
+}
