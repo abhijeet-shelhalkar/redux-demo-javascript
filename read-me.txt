@@ -2,3 +2,14 @@
 2. we added empty redux-demo.js file
 3. we run (npm init -y) command in redux-javascript folder which created package.json
 4. we run (npm install redux) command in redux-javascript folder which created package-lock.json
+
+
+create new repository on github and push code
+
+1. run (git init) command which will create your .git file in current folder
+2. add your files using (git add .) command
+3. commit your code using (git commit -m "msg")
+4. (git branch -M main) it will rename the master branch to main
+5. git remote add origin <git url>
+6. git pull origin main --allow-unrelated-histories
+7. git push -u origin main
