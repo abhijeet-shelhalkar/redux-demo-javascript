@@ -9,6 +9,10 @@ redux demo using only JavaScript
 3. run (npm init -y) command in redux-javascript folder which will create package.json with default settings
 4. run (npm install redux) command in redux-javascript folder which created package-lock.json and install redux package
 
+#### Steps to Run: Command on Terminal
+
+- node .\redux-demo.js
+
 #### Commands: for New repository
 
 - git init
