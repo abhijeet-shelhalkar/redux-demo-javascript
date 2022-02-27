@@ -1,4 +1,4 @@
-# Redux - JavaScript
+## Redux Demo using JavaScript
 
 redux demo using only JavaScript
 
